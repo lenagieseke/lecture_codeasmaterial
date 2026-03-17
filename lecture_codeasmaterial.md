@@ -13,36 +13,31 @@ class: center, middle, inverse
 
 
 ???
+
+When we talk about code as material, we should not only ask what artists can make with technology. We should also ask what artistic practice can reveal about technology.
+
+To explain what I mean by revealing technology, I going to go step by step in the talk: 
+
+------------
 Not the arts need technology. Technology needs the arts.
-
-While we are going to have a look in this talk into what processes, aesthetics, and forms of authorship does code offer as a medium, and how it shapes contemporary artistic and design practice such as...
-
-
--------------
-
-Not the arts need technology. Technology needs the arts.
-
-Technology increasingly shapes perception, communication, and culture. But the systems behind it often remain invisible. Interfaces hide them. Outputs seduce us.
-
-Artists can do something different. They can make those systems perceptible.
-
-Sometimes by turning data into atmosphere and spectacle.
-Sometimes by building new experiential worlds.
-Sometimes by exposing the limits and biases of a technology itself.
-
-So when we talk about code as material, we should not only ask what artists can make with technology. We should also ask what artistic practice can reveal about it.
-
-To do that, I want to move step by step: from instruction, to process, to system, and finally to critique.
 
 
 ---
 layout:false
 
+.center[<img src="./img/ten_print.png" alt="name" style="width:95%;">]
+  
+
+???
+from instruction, as seen here with one of the earliest examples of creative coding, or using code for a generative design....
+
+---
+
 .center[<img src="./img/machineHallucinations_01.png" alt="machineHallucinations_01" style="width:92%;">].imgref[[Image: Rafik Anadol. 2021. Machine Hallucinations — Nature Dreams. https://refikanadol.com/works/machine-hallucinations-nature-dreams/]]
 
 ???
 
-...currently extremely famous artist Rafik Anadol and spectacle and data aesthetics...
+...computational systems, such as the currently extremely famous artist Rafik Anadol and his data aesthetics spectacles...
 
 ---
 
@@ -58,25 +53,9 @@ layout:false
 
 
 ???
-... critique through technological limits. I find this example of of the most important because it reveal the limit of a technology, specifically of generative AI.
+... critique through revealing technological limits on the example of generative AI, as seen here, which is not simply a non-optimized generative AI image, but deliberate artistic practice.
 
-Or it can mean exposing the limits, biases, and fragilities of a system, as in Jake Elwes’ Zizi.
-
-So if we talk about code as material, we should not only ask what artists can make with technology.
-We should also ask what artistic practice can reveal about technology.
-
-To get there, I want to move step by step:
-from instruction, to process, to system, and finally to critique.
-
-----------
-
-
-
-Technology increasingly shapes perception, communication, and culture.
-But the systems behind it are often invisible. Interfaces hide them.
-
-They reveal the assumptions, biases, and strange behaviors inside technological media.
-This lecture is about how code can become such a medium.
+To get there, I going to move step by step:
 
 
 
@@ -85,13 +64,23 @@ This lecture is about how code can become such a medium.
 
 * Instructions - *Art as Score*
 
+???
+from instruction
+
+
 --
 
 * Algorithms - *Art as Process*
 
+???
+to process,
+
 --
 
-* Computational Systems - *Art as Interaction*
+* Computational Systems - *Art as Translation*
+
+???
+to system
 
 --
 
@@ -99,8 +88,10 @@ This lecture is about how code can become such a medium.
 
 
 ???
+...and finally to critique.
+
 * The computer was invented to eliminate ambiguity and error. 
-* Artists immediately turned it into a machine for producing ambiguity and aesthetic accidents.
+* Artists immediately turned it into a machine for producing unpredicted emergence, ambiguity and accidents.
 * That tension between precision and misbehavior is what makes most interesting computational art.
 
 
@@ -305,10 +296,7 @@ So it is aleatoric in spirit, but specifically a form of performer-driven indete
   
 .footnote[[Wikipedia. 2023. [*Grapefruit (book)*](https://en.wikipedia.org/wiki/Grapefruit_(book)).]]
   
----
-.header[Instructions | Yoko Ono - Grapefruit, 1964]
-
-## *Snow Piece*
+???
 
 >Think that snow is falling. Think that snow is falling everywhere all the time. When you talk with a person, think that snow is falling between you and on the person. Stop conversing when you think the person is covered by snow. 
 
@@ -330,6 +318,14 @@ So it is aleatoric in spirit, but specifically a form of performer-driven indete
 .footnote[[Wikipedia. 2023. [*Grapefruit (book)*](https://en.wikipedia.org/wiki/Grapefruit_(book)).]]
   
 
+???
+Creative Coding Exercises:
+* Circles!
+* Happiness
+* A single instruction produces a single action.
+* But when instructions **repeat and interact**, something new appears.
+
+The medium matters.
 
 
 ---
@@ -352,20 +348,13 @@ So it is aleatoric in spirit, but specifically a form of performer-driven indete
 * A line of code does not contain an image or sound.
 * It is a **formal description of an action** executed by a machine.
 
-Creative Coding Exercises:
-* Circles!
-* Happiness
-* A single instruction produces a single action.
-* But when instructions **repeat and interact**, something new appears.
-
-The medium matters.
 
 
 --
 
 <br />
 
-Computation and with that **automation** as medium
+The medium is computation and with that **automation**:
 
 --
 
@@ -817,7 +806,7 @@ Algorithms become a **creative material** when we explore:
 template:inverse
 
 # Computational Systems
-## *Art as Interaction*
+## *Art as Translation*
 
 ???
 
@@ -828,14 +817,9 @@ template:inverse
     * Embodiment
 
 
----
-.header[Computational Systems]
+???
 
 .center[<img src="./img/machineHallucinations_01.png" alt="machineHallucinations_01" style="width:80%;">].imgref[[Image: Rafik Anadol. 2021. Machine Hallucinations — Nature Dreams. https://refikanadol.com/works/machine-hallucinations-nature-dreams/]]
-
----
-.header[Computational Systems]
-
 
 .center[<img src="./img/superradiance_05.jpg" alt="superradiance_05" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
 
@@ -2919,7 +2903,7 @@ template:inverse
 
 * Instructions - *Art as Score*
 * Algorithms - *Art as Process*
-* Computational Systems - *Art as Interaction*
+* Computational Systems - *Art as Translation*
 * Models of Misuse - *Art as Critique*
 
 --
